@@ -11,7 +11,7 @@ This project focuses on:
 
 ---
 
-### 🔗 [Live Demo]()
+### 🔗 [Live Demo](https://responsive-flower-shop.netlify.app/)
 
 ---
 
