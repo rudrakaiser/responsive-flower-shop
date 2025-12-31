@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+.g {
+    color: #8987A1;
+}
+
+.o {
+    color: #E95A08;
+}
+.o {
+    color: #E95A08;
+}
+
+.bo {
+    background-color: #E95A08;
+}
+
+.hbo:hover {
+    background-color: #d55308;
+}
